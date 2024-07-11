@@ -6,7 +6,7 @@ You can play it here: https://elixir-mmo.onrender.com
 
 ## Controls
 
-Move your character with WASD and press space for a area attack that kills all enemies adjacent to you
+Move your character with WASD and press space for an area attack that kills all enemies adjacent to you
 
 ## Development Setup
 ### Prerequisites
